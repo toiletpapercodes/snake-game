@@ -1,2 +1,2 @@
 # snake-game
-this game is about a black snake(black guy) eating apple(picking up cottons)
+this game is about a black snake(black guy) eating apples(picking up cottons)
